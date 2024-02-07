@@ -1,0 +1,5 @@
+.title h1, h2{
+    height: 100%;
+    width: 20%;
+    border-style: dotted;
+}
